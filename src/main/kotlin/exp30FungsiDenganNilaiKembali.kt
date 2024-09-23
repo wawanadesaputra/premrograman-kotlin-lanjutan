@@ -5,6 +5,6 @@ fun main(args: Array<String>) {
 
 fun getSum(values: List<Int>) : Int { //return type is int
     var total = 0;
-    for(i in values) total +- i
+    for(i in values) total += i
     return total //return value
 }

@@ -4,44 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2a4e0e9-5d6c-4c95-bda5-13b3f201f28e" name="Changes" comment="Array.kt">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PemrogramanKontlinLanjutan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10Set.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp11Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp12Ranges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp13Percabangan1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp13Percabangan2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp14KalkulatorSederhana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp15WhiledanDoWhileLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp16KalkulatorSederhana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp17BreakDanContinue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp18ReturnPadaForLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp19BreakDanContinuePadaForLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp1ArrayStandarKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp20NullSafety1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp21NullSafety2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp22OperatorSeruSeru1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp23PemeriksaanKondisiNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp24SafeCalls.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp25ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp26FungsiMath.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp27MenghitungLuasDanKelilingLingkaran.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp28MenghitungAkarKuadrat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp29FungsiTanpaNilaiKembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp2ArrayDenganTipePrimitive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp3ArrayMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp4Array2Dimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp5ArrayMultidimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp6Collections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp7ListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp8MutableListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp9ArrayListOf.kt" afterDir="false" />
+    <list default="true" id="f2a4e0e9-5d6c-4c95-bda5-13b3f201f28e" name="Changes" comment="Upload Starter Project">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp35When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp36KalkulatorSederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp37ForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp38TabelPerkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp39KalkulatorEksponensial.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exp1Array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exp14KalkulatorSederhana.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exp14KalkulatorSederhana.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exp30FungsiDenganNilaiKembali.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exp30FungsiDenganNilaiKembali.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,37 +47,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exp29FungsiTanpaNilaiKembaliKt">
-    <configuration name="Exp10SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exp10SetKt" />
+  <component name="RunManager" selected="Kotlin.Exp34EkspresiLambdasKt">
+    <configuration name="Exp30FungsiDenganNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp30FungsiDenganNilaiKembaliKt" />
       <module name="PemrogramanKontlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exp11MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exp11MapKt" />
+    <configuration name="Exp31MnggunakanPairSebagaiNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp31MnggunakanPairSebagaiNilaiKembaliKt" />
       <module name="PemrogramanKontlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exp29FungsiTanpaNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exp29FungsiTanpaNilaiKembaliKt" />
+    <configuration name="Exp32SingleExpressionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp32SingleExpressionFunctionsKt" />
       <module name="PemrogramanKontlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exp7ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exp7ListOfKt" />
+    <configuration name="Exp33ArgumenDefaultFungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp33ArgumenDefaultFungsiKt" />
       <module name="PemrogramanKontlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exp9ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exp9ArrayListOfKt" />
+    <configuration name="Exp34EkspresiLambdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp34EkspresiLambdasKt" />
       <module name="PemrogramanKontlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Exp29FungsiTanpaNilaiKembaliKt" />
-        <item itemvalue="Kotlin.Exp11MapKt" />
-        <item itemvalue="Kotlin.Exp10SetKt" />
-        <item itemvalue="Kotlin.Exp9ArrayListOfKt" />
-        <item itemvalue="Kotlin.Exp7ListOfKt" />
+        <item itemvalue="Kotlin.Exp34EkspresiLambdasKt" />
+        <item itemvalue="Kotlin.Exp33ArgumenDefaultFungsiKt" />
+        <item itemvalue="Kotlin.Exp32SingleExpressionFunctionsKt" />
+        <item itemvalue="Kotlin.Exp31MnggunakanPairSebagaiNilaiKembaliKt" />
+        <item itemvalue="Kotlin.Exp30FungsiDenganNilaiKembaliKt" />
       </list>
     </recent_temporary>
   </component>
@@ -145,12 +116,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725872324413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload Starter Project">
+      <created>1727097775297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727097775297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push Starter Project" />
     <MESSAGE value="Array.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array.kt" />
+    <MESSAGE value="Upload Starter Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Starter Project" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
     println("Welcome to our calculator")
-    println("Enter the first number:")
+    println("Enter the first number:");
     val a = readLine()!!.toDouble()
     println("Enter the second number:")
     val b = readLine()!!.toDouble()
@@ -9,21 +9,18 @@ fun main(args: Array<String>) {
     println("2 - subtraction")
     println("3 - multiplication")
     println("4 - division")
-    val choise = readLine()!!.toInt()
+    val choice = readLine()!!.toInt()
     var result = 0.0
-    if (choise == 1) {
-        result = a + b
-    }else if (choise == 2){
-        result = a - b
-    }else if (choise == 3){
-        result = a * b
-    }else if (choise == 4){
-        result = a / b
+    when (choice) {
+        1 -> result = a + b
+        2 -> result = a - b
+        3 -> result = a * b
+        4 -> result = a / b
     }
-    if ((choise > 0) && (choise < 5)){
-        println("result: $result")
-    }else{
-        println("Invalid choise")
+    if ((choice > 0) && (choice < 5)) {
+        println("Result: $result")
+    } else {
+        println("Invalid choice")
     }
-    println("Thanks you for using our exponent calculator")
+    println("Thank you for using our calculator.")
 }
