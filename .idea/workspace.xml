@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2a4e0e9-5d6c-4c95-bda5-13b3f201f28e" name="Changes" comment="" />
+    <list default="true" id="f2a4e0e9-5d6c-4c95-bda5-13b3f201f28e" name="Changes" comment="Array.kt">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PemrogramanKontlinLanjutan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10Set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp11Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp12Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp13Percabangan1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp13Percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp14KalkulatorSederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp15WhiledanDoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp16KalkulatorSederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp17BreakDanContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp18ReturnPadaForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp19BreakDanContinuePadaForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp1ArrayStandarKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp20NullSafety1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp21NullSafety2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp22OperatorSeruSeru1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp23PemeriksaanKondisiNull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp24SafeCalls.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp25ElvisOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp26FungsiMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp27MenghitungLuasDanKelilingLingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp28MenghitungAkarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp29FungsiTanpaNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp2ArrayDenganTipePrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp3ArrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp4Array2Dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp5ArrayMultidimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp6Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp7ListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp8MutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp9ArrayListOf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exp1Array.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2lpKTakgTQKnFOdXD12uA7PPRPN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,12 +68,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.Exp29FungsiTanpaNilaiKembaliKt">
+    <configuration name="Exp10SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp10SetKt" />
+      <module name="PemrogramanKontlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp11MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp11MapKt" />
+      <module name="PemrogramanKontlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp29FungsiTanpaNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp29FungsiTanpaNilaiKembaliKt" />
+      <module name="PemrogramanKontlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp7ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp7ListOfKt" />
+      <module name="PemrogramanKontlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp9ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp9ArrayListOfKt" />
+      <module name="PemrogramanKontlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Exp29FungsiTanpaNilaiKembaliKt" />
+        <item itemvalue="Kotlin.Exp11MapKt" />
+        <item itemvalue="Kotlin.Exp10SetKt" />
+        <item itemvalue="Kotlin.Exp9ArrayListOfKt" />
+        <item itemvalue="Kotlin.Exp7ListOfKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +131,26 @@
       <option name="presentableId" value="Default" />
       <updated>1725871587228</updated>
     </task>
+    <task id="LOCAL-00001" summary="Push Starter Project">
+      <created>1725871717308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725871717308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Array.kt">
+      <created>1725872324413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872324413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push Starter Project" />
+    <MESSAGE value="Array.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array.kt" />
   </component>
 </project>
